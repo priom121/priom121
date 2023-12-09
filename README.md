@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I,m priom
 
+<img src='./Home.png' alt='banner'></img>
 <!--
 **priom121/priom121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
