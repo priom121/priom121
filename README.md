@@ -4,15 +4,15 @@
 <h1 align="center" >Hi 👋 I,m priom </h1>
 <h3 align="center" >A passionate web developer...</h3>
 
-<h1  align="right" >Status⚡</h1>
-
+<h1  align="left" >Status⚡</h1>
+<div align='center'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark)](https://git.io/streak-stats)
-
+</div>
 
 
 <!-- Reach Me Out -->
 <h1  align="left" >📫 Reach Me</h1>
-<p><img height="70" src='./images//Gmail.jpg'></img> </p>
+<p><img height="60" src='./images//Gmail.jpg'></img> </p>
 
 <!-- my skills -->
 <h1  align="left" >My Skills</h1>
@@ -26,8 +26,8 @@
 <img height="60" src="./images/ExpressJS-Dark.svg"/>
 <img height="60" src="./images/NodeJS-Dark.svg"/>
 <img height="60" src="./images/React-Dark.svg"/>
-
 </p>
+
 
 
 
