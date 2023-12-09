@@ -28,15 +28,16 @@
 <img height="60" src="./images/React-Dark.svg"/>
 </p>
 
-<p>Connect Me </p>
+<!-- social icon and link -->
+<h3>Connect Me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/priom-gupta-829ba02a3/" target="blank"><img align="center" src="./images/linkdin.png" alt="priom121" height="30" width="40" /></a>
-<a href="https://www.facebook.com/priomprosad.gupta/" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priom-gupta-829ba02a3/" target="blank"><img align="center" src="./images/linkdin.png" alt="priom121" height="40" width="60" /></a>
+<a href="https://www.facebook.com/priomprosad.gupta/" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="40" width="60" /></a>
 
 </p>
 
 
-Here are some ideas to get you started:
+<h3>Current Overview</h3>
 
 - 🔭 I’m currently working on My portfolio Website
 - 🌱 I’m currently learning ...Next.js
