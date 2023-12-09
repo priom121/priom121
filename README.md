@@ -4,18 +4,20 @@
 <h1 align="center" >Hi 👋 I,m priom </h1>
 <h3 align="center" >A passionate web developer...</h3>
 
-<h1  align="left" >Status⚡</h1>
+<h2  align="left" >Status⚡</h2>
 <div align='center'>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark" alt="GitHub Streak" /></a>
 </div>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark)](https://git.io/streak-stats) -->
+
 
 
 <!-- Reach Me Out -->
-<h1  align="left" >📫 Reach Me</h1>
+<h2  align="left" >📫 Reach Me</h2>
 <p><img height="60" src='./images//Gmail.jpg'></img> </p>
 
 <!-- my skills -->
-<h1  align="left" >My Skills</h1>
+<h2  align="left" >My Skills</h2>
 <p align="center">
 <img height="60" src="./images/HTML.svg"/>
 <img height="60" src="./images/CSS.svg"/>
