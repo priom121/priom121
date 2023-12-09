@@ -10,8 +10,6 @@
 </div>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark)](https://git.io/streak-stats) -->
 
-
-
 <!-- Reach Me Out -->
 <h2  align="left" >📫 Reach Me</h2>
 <p><img height="60" src='./images//Gmail.jpg'></img> </p>
@@ -30,7 +28,12 @@
 <img height="60" src="./images/React-Dark.svg"/>
 </p>
 
+<p>Connect Me </p>
+<p align="left">
+<a href="https://www.linkedin.com/in/priom-gupta-829ba02a3/" target="blank"><img align="center" src="./images/linkdin.png" alt="priom121" height="30" width="40" /></a>
+<a href="https://www.facebook.com/priomprosad.gupta/" target="blank"><img align="center" src="./images/facebook.png" alt="priom" height="30" width="40" /></a>
 
+</p>
 
 
 Here are some ideas to get you started:
