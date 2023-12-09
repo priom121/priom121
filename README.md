@@ -11,14 +11,21 @@
 
 
 <!-- Reach Me Out -->
-<h1  align="right" >📫 Reach Me</h1>
+<h1  align="left" >📫 Reach Me</h1>
 <p><img height="70" src='./images//Gmail.jpg'></img> </p>
 
 <!-- my skills -->
-<h1  align="right" >My Skills</h1>
+<h1  align="left" >My Skills</h1>
 <p align="center">
-<img src="./images/HTML.svg"/>
-<img src="./images/CSS.svg"/>
+<img height="60" src="./images/HTML.svg"/>
+<img height="60" src="./images/CSS.svg"/>
+<img height="60" src="./images/JavaScript.svg"/>
+<img height="60" src="./images/Bootstrap.svg"/>
+<img height="60" src="./images/tailwind.svg"/>
+<img height="60" src="./images/Firebase-Light.svg"/>
+<img height="60" src="./images/ExpressJS-Dark.svg"/>
+<img height="60" src="./images/NodeJS-Dark.svg"/>
+<img height="60" src="./images/React-Dark.svg"/>
 
 </p>
 
