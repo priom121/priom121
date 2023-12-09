@@ -8,21 +8,27 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark)](https://git.io/streak-stats)
 
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=priom121&theme=vue-dark" alt="GitHub Streak" /></a> -->
+
 
 <!-- Reach Me Out -->
-<h1  align="left" >📫 Reach Me</h1>
-[<p><img height="75" src='./images//Gmail.jpg'></img></p>](priombirganj121@gamil.com/)
+<h1  align="right" >📫 Reach Me</h1>
+<p><img height="70" src='./images//Gmail.jpg'></img> </p>
+
+<!-- my skills -->
+<h1  align="right" >My Skills</h1>
+<p align="center">
+<img src="./images/HTML.svg"/>
+<img src="./images/CSS.svg"/>
+
+</p>
 
 
-**priom121/priom121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on My portfolio Website
 - 🌱 I’m currently learning ...Next.js
 - 👯 I’m looking to collaborate on Full Stack Project
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML,CSS,JS & React
 - 📫 How to reach me: **priombirganj121@gamil.com**
 - 😄 Pronouns: He/Him
